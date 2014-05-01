@@ -102,4 +102,4 @@
 })();
 
 
-// .replace(/[-;,']/g, '')  - remove all the extra shit.
+// .replace(/[-;,']/g, '')  - remove all the extra cruft.
